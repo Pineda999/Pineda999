@@ -36,10 +36,16 @@
 
 
 <!--Proyectos start-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Proyectos 👨🏻‍💻</h1></summary>
+  </ul>
+</div>
+
 <table>
   <tr>
     <td>
-      <img width="690" height="452" alt="tictactoe" src="https://github.com/user-attachments/assets/43bc048e-c5f3-4c3d-9d2c-42589f7bd208" />
+      <img width="100" height="252" alt="tictactoe" src="https://github.com/user-attachments/assets/43bc048e-c5f3-4c3d-9d2c-42589f7bd208" />
     </td>
   </tr>
 </table>
