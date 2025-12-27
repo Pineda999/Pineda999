@@ -1,9 +1,6 @@
 <h1 align="center"> Hola 👋, Soy Moises :star2:</h1>
 
-<h2 style="display: inline-block">Sobre mi :smiley:</h2>
-
-
-
+<h2 align="center">Sobre mi :smiley:</h2>
 
 <p>
   <!--Intro start-->
@@ -17,16 +14,19 @@
 
 - 📫 Contacto : **pinedamoises08@gmail.com**
 
+<h2 style="display: inline-block">Tecnologías conocidas 👨🏻‍💻</h2>
+<p align="center">
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,py,mysql,django,postman,git,github,figma,vscode&theme=light" />
+  </a>
+</p>
+
 <!--Intro end-->
 </p>
 
 
 <!--Proyectos start-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Proyectos 👨🏻‍💻</h1></summary>
-  </ul>
-</div>
+<h1 style="display: inline-block">Proyectos 👨🏻‍💻</h1>
 
 <div id="proyectos">
   <table align="center" >
@@ -63,34 +63,15 @@
 <!--Proyectos (end)-->
 <br>
 <br>
-
 </p>        
-<!--- stats (end) -->
 
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías conocidas 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,py,mysql,django,postman,git,github,figma,vscode&theme=light" />
-  </a>
-</p>
 
-<hr>
 <!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Contactame🤝</h2></summary>
-  </ul>
-</div>
+<h2 style="display: inline-block">Contactame🤝</h2>
 
-<!--icons and links-->
+
+
 <p align="center">
 <a href="https://www.linkedin.com/in/moises--pineda/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
