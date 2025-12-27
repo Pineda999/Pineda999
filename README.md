@@ -44,14 +44,12 @@
 
 <table>
   <tr>
-    <td>
-      <img width="250" height="352" alt="tictactoe" src="https://github.com/user-attachments/assets/43bc048e-c5f3-4c3d-9d2c-42589f7bd208" />
-    </td>
+    <img width="250" height="352" alt="tictactoe" src="https://github.com/user-attachments/assets/43bc048e-c5f3-4c3d-9d2c-42589f7bd208" />
   </tr>
 
-  <td>
-        <img width="250" height="352" alt="piedra" src="https://github.com/user-attachments/assets/8ad853db-0855-4078-8792-02bf725b507e" />
-    </td>
+  <tr>
+      <img width="250" height="352" alt="piedra" src="https://github.com/user-attachments/assets/8ad853db-0855-4078-8792-02bf725b507e" />
+  </tr>
 </table>
 <!--Proyectos (end)-->
 
