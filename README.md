@@ -43,7 +43,7 @@
 </div>
 
 <div id="proyectos">
-  <table align="left" >
+  <table align="center" >
 <tr border="none">
 <td width="30%" align="center">
     <p align="center">
