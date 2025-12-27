@@ -4,7 +4,8 @@
 <h2 align="center">Sobre mi :smiley:</h2>
 
 <p>
-- 🔭 Técnico en Desarrollo de software en código abierto.
+   
+- 🔭 Técnico en Desarrollo de software en código abierto
 
 - 🌱 Tengo año y medio de experiencia en el desarrollo de apliacaion y sitios web.
 
@@ -13,6 +14,8 @@
 - 💬 Conocimientos en **HTML, CSSS, JavaScript, React, Python, MySQL**
 
 - 📫 Contacto : **pinedamoises08@gmail.com**
+- 
+</p>
 
 <h2 align="center">Tecnologías conocidas 👨🏻‍💻</h2>
 <p align="center">
