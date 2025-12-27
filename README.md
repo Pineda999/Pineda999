@@ -36,7 +36,7 @@
 <tr border="none">
 <td width="30%" align="center">
     <p align="center">
-     <a title="Go to Source">
+     <a title="Go to Source"  href="https://github.com/Pineda999/Tic-Tac-Toe.git">
       <img width="200" align="center" alt="tictactoe" src="https://github.com/user-attachments/assets/129f30da-ff66-4a66-8551-a85a28d0b1e3" /></a>
       </p>
     <p align="center">
@@ -46,7 +46,7 @@
   
   <td width="30%" align="center">
     <p align="center">
-     <a title="Go to Source">
+     <a title="Go to Source" href="https://github.com/Pineda999/juego-piedra-papel-o-tijera.git">
        <img width="200" align="center" alt="piedra" src="https://github.com/user-attachments/assets/2bc4c741-d905-45c0-9123-886889dd0db4" /></a>
       </p>
     <p align="center">
@@ -56,7 +56,7 @@
 
    <td width="30%" align="center">
     <p align="center">
-     <a title="Go to Source">
+     <a title="Go to Source" href="https://io-tecniplus.netlify.app/">
        <img width="200" align="center" alt="ioSites" src="https://github.com/user-attachments/assets/21577eec-a419-4ab6-b364-4c8603f0a7c1" /></a>
       </p> 
 </td>
