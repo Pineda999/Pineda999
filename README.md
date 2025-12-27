@@ -42,7 +42,8 @@
   </ul>
 </div>
 
-<table align="left" >
+<div>
+  <table align="left" >
 <tr border="none">
 <td width="25%" align="center">
     <p align="center">
@@ -72,8 +73,9 @@
 </td>
 </tr>
 </table>
+</div>
 <!--Proyectos (end)-->
-<br>
+
 </p>        
 <!--- stats (end) -->
 
