@@ -45,7 +45,7 @@
 <div id="proyectos">
   <table align="left" >
 <tr border="none">
-<td width="25%" align="center">
+<td width="30%" align="center">
     <p align="center">
      <a title="Go to Source">
       <img width="100" align="center" alt="tictactoe" src="https://github.com/user-attachments/assets/129f30da-ff66-4a66-8551-a85a28d0b1e3" /></a>
@@ -55,7 +55,7 @@
     </p>       
 </td>
   
-  <td width="25%" align="center">
+  <td width="30%" align="center">
     <p align="center">
      <a title="Go to Source">
        <img width="100" align="center" alt="piedra" src="https://github.com/user-attachments/assets/2bc4c741-d905-45c0-9123-886889dd0db4" /></a>
@@ -65,7 +65,7 @@
     </p>       
 </td>
 
-   <td width="25%" align="center">
+   <td width="30%" align="center">
     <p align="center">
      <a title="Go to Source">
        <img width="100" align="center" alt="ioSites" src="https://github.com/user-attachments/assets/21577eec-a419-4ab6-b364-4c8603f0a7c1" /></a>
