@@ -4,7 +4,6 @@
 <h2 align="center">Sobre mi :smiley:</h2>
 
 <p>
-  <!--Intro start-->
 - 🔭 Técnico en Desarrollo de software en código abierto.
 
 - 🌱 Tengo año y medio de experiencia en el desarrollo de apliacaion y sitios web.
