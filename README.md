@@ -1,5 +1,5 @@
 <h1 align="center"> Hola 👋, Soy Moises :star2:</h1>
-<a href="https://www.linkedin.com/in/moises--pineda/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href="https://www.linkedin.com/in/moises--pineda/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 
 <h2 align="center">Sobre mi :smiley:</h2>
 
