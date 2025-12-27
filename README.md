@@ -46,15 +46,18 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-        <img align="center" width="100"  alt="piedra" src="https://github.com/user-attachments/assets/f78980de-e48b-494f-9c0b-85d08279f0e4" />
+     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
       </p>
     <p align="center">
+        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
       <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
 <td width="25%" align="center">
     <p align="center">
-        <img align="center" width="100"  alt="tictactoe" src="https://github.com/user-attachments/assets/a0573388-ffb6-40f8-9e4f-37f2348b9a2d" />
+     <a title="Go to Source">
+      <img width="100" align="center" alt="tictactoe" src="https://github.com/user-attachments/assets/129f30da-ff66-4a66-8551-a85a28d0b1e3" /></a>
       </p>
     <p align="center">
       <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
@@ -63,13 +66,20 @@
   
   <td width="25%" align="center">
     <p align="center">
-        <img align="center" width="100"  alt="ioSites" src="https://github.com/user-attachments/assets/a4b18614-b02c-4dd0-934d-88fdbb6c7d4b" />
-
+     <a title="Go to Source">
+       <img width="100" align="center" alt="piedra" src="https://github.com/user-attachments/assets/2bc4c741-d905-45c0-9123-886889dd0db4" /></a>
       </p>
     <p align="center">
       <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
-</td> 
+</td>
+
+   <td width="25%" align="center">
+    <p align="center">
+     <a title="Go to Source">
+       <img width="100" align="center" alt="ioSites" src="https://github.com/user-attachments/assets/21577eec-a419-4ab6-b364-4c8603f0a7c1" /></a>
+      </p> 
+</td>
 </tr>
 </table>
 <!--Proyectos (end)-->
