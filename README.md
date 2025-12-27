@@ -1,4 +1,5 @@
 <h1 align="center"> Hola 👋, Soy Moises :star2:</h1>
+<a href="https://www.linkedin.com/in/moises--pineda/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 
 <h2 align="center">Sobre mi :smiley:</h2>
 
@@ -14,7 +15,7 @@
 
 - 📫 Contacto : **pinedamoises08@gmail.com**
 
-<h2 style="display: inline-block">Tecnologías conocidas 👨🏻‍💻</h2>
+<h2 align="center">Tecnologías conocidas 👨🏻‍💻</h2>
 <p align="center">
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,py,mysql,django,postman,git,github,figma,vscode&theme=light" />
@@ -26,7 +27,7 @@
 
 
 <!--Proyectos start-->
-<h1 style="display: inline-block">Proyectos 👨🏻‍💻</h1>
+<h1 align="center">Proyectos 👨🏻‍💻</h1>
 
 <div id="proyectos">
   <table align="center" >
@@ -64,15 +65,3 @@
 <br>
 <br>
 </p>        
-
-
-
-<!-- Connect with me -->
-<h2 style="display: inline-block">Contactame🤝</h2>
-
-
-
-<p align="center">
-<a href="https://www.linkedin.com/in/moises--pineda/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-</p>
-
