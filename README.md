@@ -14,7 +14,7 @@
 - 💬 Conocimientos en **HTML, CSSS, JavaScript, React, Python, MySQL**
 
 - 📫 Contacto : **pinedamoises08@gmail.com**
-- 
+  
 </p>
 
 <h2 align="center">Tecnologías conocidas 👨🏻‍💻</h2>
