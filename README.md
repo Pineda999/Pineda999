@@ -7,6 +7,7 @@
   </ul>
 </div>
 
+<hr>
 
 <!--- snake -->
 
@@ -18,6 +19,7 @@
   </ul>
 </div>
 
+<hr>
 
 <!--Intro start-->
 - 🔭 Técnico en Desarrollo de software en código abierto.
@@ -33,7 +35,7 @@
 <!--Intro end-->
 
 
-
+<hr>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -47,14 +49,14 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
   
   </td>
 </tr>
 </table>
 <!--- stats (end) -->
 
-
+<hr>
 
 </p>        
 <!--- stats (end) -->
@@ -73,7 +75,7 @@
   </a>
 </p>
 
-
+<hr>
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -81,13 +83,13 @@
     <summary><h2 style="display: inline-block">Contactame🤝</h2></summary>
   </ul>
 </div>
-
+<hr>
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/moises--pineda/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
 
-
+<hr>
 <!--profile visit count-->
 <div align="center">
   
