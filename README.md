@@ -1,7 +1,7 @@
 <h1 align="center"> Hola 👋, Soy Moises :star2:</h1>
 <a href="https://www.linkedin.com/in/moises--pineda/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 
-<h2 align="center">Sobre mi :smiley:</h2>
+<h2 >Sobre mi :smiley:</h2>
 
 <p>
    
@@ -17,7 +17,7 @@
   
 </p>
 
-<h2 align="center">Tecnologías conocidas 👨🏻‍💻</h2>
+<h2>Tecnologías conocidas 👨🏻‍💻</h2>
 <p align="center">
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,py,mysql,django,postman,git,github,figma,vscode&theme=light" />
@@ -29,7 +29,7 @@
 
 
 <!--Proyectos start-->
-<h1 align="center">Proyectos 👨🏻‍💻</h1>
+<h1>Proyectos 👨🏻‍💻</h1>
 
 <div id="proyectos">
   <table align="center" >
