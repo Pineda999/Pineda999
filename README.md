@@ -35,7 +35,15 @@
 <!--Intro end-->
 
 
-
+<!--Proyectos start-->
+<table>
+  <tr>
+    <td>
+      <img width="690" height="452" alt="tictactoe" src="https://github.com/user-attachments/assets/43bc048e-c5f3-4c3d-9d2c-42589f7bd208" />
+    </td>
+  </tr>
+</table>
+<!--Proyectos (end)-->
 
 </p>        
 <!--- stats (end) -->
