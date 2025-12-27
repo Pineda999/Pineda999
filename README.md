@@ -24,13 +24,11 @@
 <!--Intro start-->
 - 🔭 Técnico en Desarrollo de software en código abierto.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 Tengo año y medio de experiencia en el desarrollo de apliacaion y sitios web.
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ Me interesa el mundo del desarrollo de software
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Conocimientos en **HTML, CSSS, JavaScript, React, Python, MySQL**
 
 - 📫 Contacto : **pinedamoises08@gmail.com**
 
@@ -79,7 +77,7 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 </p>
 
 
@@ -87,7 +85,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Contactame🤝</h2></summary>
   </ul>
 </div>
 
@@ -113,7 +111,3 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
-
-Last Edited on: 29/4/2023
