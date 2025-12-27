@@ -48,7 +48,7 @@
 <td width="30%" align="center">
     <p align="center">
      <a title="Go to Source">
-      <img width="100" align="center" alt="tictactoe" src="https://github.com/user-attachments/assets/129f30da-ff66-4a66-8551-a85a28d0b1e3" /></a>
+      <img width="200" align="center" alt="tictactoe" src="https://github.com/user-attachments/assets/129f30da-ff66-4a66-8551-a85a28d0b1e3" /></a>
       </p>
     <p align="center">
       <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
@@ -58,7 +58,7 @@
   <td width="30%" align="center">
     <p align="center">
      <a title="Go to Source">
-       <img width="100" align="center" alt="piedra" src="https://github.com/user-attachments/assets/2bc4c741-d905-45c0-9123-886889dd0db4" /></a>
+       <img width="200" align="center" alt="piedra" src="https://github.com/user-attachments/assets/2bc4c741-d905-45c0-9123-886889dd0db4" /></a>
       </p>
     <p align="center">
       <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
@@ -68,7 +68,7 @@
    <td width="30%" align="center">
     <p align="center">
      <a title="Go to Source">
-       <img width="100" align="center" alt="ioSites" src="https://github.com/user-attachments/assets/21577eec-a419-4ab6-b364-4c8603f0a7c1" /></a>
+       <img width="200" align="center" alt="ioSites" src="https://github.com/user-attachments/assets/21577eec-a419-4ab6-b364-4c8603f0a7c1" /></a>
       </p> 
 </td>
 </tr>
@@ -76,10 +76,7 @@
 </div>
 <!--Proyectos (end)-->
 <br>
-<br><br>
 <br>
-<br><br><br>
-<br><br>
 
 </p>        
 <!--- stats (end) -->
